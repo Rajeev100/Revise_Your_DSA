@@ -1,2 +1,2 @@
-# Revise_Your_DSA
+# THINK_CODE_REVISE
 Complete Data Structure and Algorithm
